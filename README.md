@@ -4,13 +4,13 @@ Montréal · Québec · Canada · 📧 [ericomers@gmail.com](mailto:ericomers@gm
 
 ---
 
-## 👋 À propos  
+## À propos  
 Passionné par la finance quantitative, l’actuariat et l’analyse avancée des données, j’aime transformer des problématiques complexes de gestion des risques et de modélisation financière en solutions claires, robustes et automatisables.  
 Je combine rigueur actuarielles, techniques de data-science et bonne compréhension réglementaire (Bâle, IFRS, etc.) pour contribuer à la prise de décision éclairée dans les institutions financières, assurances ou fonds d’investissement.
 
 ---
 
-## 🛠️ Mes spécialisations  
+## Mes spécialisations  
 - Gestion & modélisation des **risques financiers** : crédit, marché, liquidité, assurance vie  
 - Finance quantitative : structure des taux, Monte Carlo, Black-Scholes, VaR  
 - Machine learning appliqué à la finance : scoring, prédiction de défauts, modèles de survie  
@@ -20,7 +20,7 @@ Je combine rigueur actuarielles, techniques de data-science et bonne compréhens
 
 ---
 
-## 🎓 Formation  
+## Formation  
 - Maîtrise en Finance Mathématique & Computationnelle — Université de Montréal  
 - Certificat en Gestion des Placements — HEC Paris  
 - Master en Sciences Actuarielles & Mathématiques Financières — Université d’Abomey-Calavi  
@@ -28,7 +28,7 @@ Je combine rigueur actuarielles, techniques de data-science et bonne compréhens
 
 ---
 
-## 💼 Expériences professionnelles  
+## Expériences professionnelles  
 - Stagiaire Administration des régimes de retraites — TELUS Santé (Montréal, 2025)  
 - Auxiliaire d’enseignement — Université de Montréal (2023-2024)  
 - Chef Service Souscription & Gestion des Contrats — NSIA Vie Assurance (Cotonou, 2021)  
@@ -37,7 +37,7 @@ Je combine rigueur actuarielles, techniques de data-science et bonne compréhens
 
 ---
 
-## 📂 Projets récents  
+## Projets récents  
 > Tous les projets ci-après sont disponibles sur mon GitHub : [github.com/ericomersegla](https://github.com/ericomersegla)
 
 | Projet | Description |
@@ -51,16 +51,16 @@ Je combine rigueur actuarielles, techniques de data-science et bonne compréhens
 
 ---
 
-## 📌 Compétences techniques  
-- **Langages & outils** : Python (NumPy, Pandas, Scikit-learn, Matplotlib), R, MATLAB, SAS  
-- **Bases de données** : SQL, PostgreSQL  
+##  Compétences techniques  
+- **Langages & outils** : Python, R, MATLAB, SAS  
+- **Bases de données** : SQL
 - **Finance & Actuariat** : Modèles de survie, ALM, VaR, Black-Scholes, Monte Carlo  
-- **Machine Learning** : Régression, Classification, Clustering, Validation croisée  
+- **Machine Learning (niveau academique/basique)** : Régression, Classification, Clustering, Validation croisée  
 - **Reporting / Visualisation** : Power BI, Tableau, Excel (VBA, Power Query)  
 
 ---
 
-## 🎯 Certifications en cours  
+## Certifications en cours  
 - Sustainable Investing Certificate (Déc. 2025)  
 - CFA Niveau I – Mai 2026  
 - Climate Risk, Valuation & Investing Certificate – Juil. 2026  
