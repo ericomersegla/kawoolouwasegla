@@ -1,5 +1,5 @@
 # Kawo-Olouwa Eric-Omer SEGLA  
-**Actuaire | Quant Analyst | Finance & Risk Modelling**  
+**Actuaire & Quant Analyst | Finance & Risk Modelling**  
 Montréal · Québec · Canada · 📧 [ericomers@gmail.com](mailto:ericomers@gmail.com) · [LinkedIn](https://www.linkedin.com/in/kawo-olouwa-eric-omer-segla-3592a6183)
 
 ---
