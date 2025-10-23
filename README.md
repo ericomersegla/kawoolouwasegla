@@ -1,6 +1,6 @@
-# 👋 Bonjour, je suis Kawo-Olouwa Eric-Omer SEGLA
+# Bonjour, je suis Kawo-Olouwa Eric-Omer SEGLA
 
-🎓 **Actuaire & Analyste Quantitatif | Finance Mathématique & Gestion des Risques**  
+🎓 **Actuaire & Analyste Quantitatif |**  
 📍 Montréal, Québec, Canada  
 📧 [ericomers@gmail.com](mailto:ericomers@gmail.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/kawo-olouwa-eric-omer-segla-3592a6183)  
