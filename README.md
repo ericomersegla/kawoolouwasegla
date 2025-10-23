@@ -72,3 +72,5 @@ Je combine rigueur actuarielles, techniques de data-science et bonne compréhens
 - [Mon LinkedIn](https://www.linkedin.com/in/kawo-olouwa-eric-omer-segla-3592a6183)  
 - [Portfolio GitHub principal](https://github.com/ericomersegla)
 
+> *« L’analyse quantitative n’est pas une fin en soi, mais un outil pour mieux comprendre, anticiper et maîtriser les risques. »*  
+> — *Kawo-Olouwa Eric-Omer SEGLA*
